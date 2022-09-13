@@ -65,6 +65,9 @@
 }
 .SixButtons {
   width: 822px;
+  width: 137px;
+  position: fixed;
+  top: 38%;
 }
 .FiveButtons {
   width: 688px;

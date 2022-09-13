@@ -3,6 +3,8 @@
 
 # Keyboard Shortcut Map Maker
 
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
+
 This is a website tool for creating a visual map/image of keyboard shortcuts or keybindings.  
 
 It originally started as a tool to generate help pages for my [ahk-scripts](https://github.com/Archie-Adams/ahk-scripts) project.  
@@ -20,6 +22,7 @@ Note: A single file version of this website for easier local use can be found in
 - Renaming keyboards and sections.
 - Re-ordering the list of keyboards and sections.
 - Multiple colour options.
+- Support color wheel fixed on the left.
 
 ### Planned Features:
 - Adding key chord tables/sections.
@@ -32,6 +35,8 @@ Note: A single file version of this website for easier local use can be found in
 - Code refactor and clean-up.
 - Collapsable sections.
 - Keyboard control.
+- Optimize save file name.
+- Add prompt text in color area.
 
 ### Known Issues:
 - Cannot reload same file without loading another in-between.
